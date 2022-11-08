@@ -5,10 +5,8 @@ Mayura Subramaniam
 
 A jacket with lights in it that change colors with your heart pulse.
 
-#Project journal
 
-
-## Principle of the project
+## Project Overview
 
 We had two distinct ideas at the beginning: to use a heart sensor to perceive the pulse, and to create a light garment which changes according to the movement of the person who wears it or according to the environment.
 
